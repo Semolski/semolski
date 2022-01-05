@@ -2,7 +2,7 @@
 
 ### I am a full (MERN) stack developer and a continuous learner! 
 
-- 🚀 I’m currently working on rebuilding my portfolio website and several React apps! 
+- 🚀 I’m currently working on rebuilding my portfolio website and I'm building several React apps! 
 - 🔮 I’m currently learning Typescript
 - 🔥 2022 Goals: Create a new React app (one each month at least) and to contribute to open source projects! 
 - 😺 Fun fact: In my spare time I love to go mountain biking!

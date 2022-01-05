@@ -7,6 +7,10 @@
 - 🔥 2022 Goals: Create a new React app (one each month at least) and to contribute to open source projects! 
 - 😺 Fun fact: In my spare time I love to go mountain biking!
 
+### Check out a couple featured projects:
+⭐ [Crown And Craft Clothing](https://crown-and-craft-clothing-live.herokuapp.com) <br />
+⭐ [Uncharted Waters](https://uw-subscription-app.herokuapp.com)
+
 ### Connect with me:
 
 [<img align="left" alt="semolski.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
